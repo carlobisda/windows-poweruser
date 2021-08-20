@@ -41,3 +41,17 @@ DeBloat Windows10
     Powershell scripts that debloats Win10 from pre-packaged software that you
     will almost never use.
   
+
+Visual Studio Code
+
+    https://code.visualstudio.com/
+    
+    For all of your programming needs. Quite robust and not too heavy on the system.
+
+Oracle VM Virtual Box
+Intelligence Standby List Cleaner
+Process Hacker
+x360ce
+Notepad ++
+Media Player Classic (or VLC Player)
+Discord
