@@ -11,7 +11,6 @@ Powertoys
     that it doesn't allow a shortcut (I believe) to automatically sort your
     current open windos to the default custom layouts.
 
-
 Windows Grid
 
     http://windowgrid.net/
@@ -20,14 +19,12 @@ Windows Grid
     a more static custom layout, Grid allows for a more dynamic off the cuff type
     of resizing.
     
-
 NVIDIA Inspector
 
     https://github.com/Orbmu2k/nvidiaProfileInspector/releases
     
     Allows for indept custom graphic settings for gaming purposes.
     
-
 Sidebar Diagnostics
 
     https://github.com/ArcadeRenegade/SidebarDiagnostics
@@ -41,7 +38,6 @@ DeBloat Windows10
     Powershell scripts that debloats Win10 from pre-packaged software that you
     will almost never use.
   
-
 Visual Studio Code
 
     https://code.visualstudio.com/
@@ -49,9 +45,29 @@ Visual Studio Code
     For all of your programming needs. Quite robust and not too heavy on the system.
 
 Oracle VM Virtual Box
+
+    WIP
+    
 Intelligence Standby List Cleaner
+    
+    WIP
+
 Process Hacker
+
+    WIP
+    
 x360ce
+    
+    WIP
+    
 Notepad ++
+
+    WIP
+
 Media Player Classic (or VLC Player)
+
+    WIP
+
 Discord
+
+    WIP
