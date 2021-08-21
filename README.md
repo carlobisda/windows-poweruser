@@ -1,5 +1,6 @@
 # windows-poweruser
 resources and tips for Windows Power Users
+2011 Version
 
 
 Powertoys
@@ -43,6 +44,14 @@ Visual Studio Code
     https://code.visualstudio.com/
     
     For all of your programming needs. Quite robust and not too heavy on the system.
+
+Windows Terminal
+
+    WIP
+
+Powershell 7 (x64)
+
+    WIP
 
 Oracle VM Virtual Box
 
