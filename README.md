@@ -80,3 +80,7 @@ Media Player Classic (or VLC Player)
 Discord
 
     WIP
+    
+QTTabBar
+
+    Dont even know how this got installed in my desktop but its great
