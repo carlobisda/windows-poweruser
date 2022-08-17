@@ -3,6 +3,20 @@ resources and tips for Windows Power Users
 2011 Version
 
 
+Scoop
+    
+    https://scoop.sh/#/
+    
+    Windows 11 command line installer
+    
+    Installation:
+        Powershell: iwr -useb get.scoop.sh | iex
+        Command Shell: scoop install "*"
+        
+    Uninstall:
+        scoop uninstall ""
+        scoop uninstall scoop
+
 Powertoys
 
     https://github.com/microsoft/PowerToys
@@ -44,6 +58,12 @@ Visual Studio Code
     https://code.visualstudio.com/
     
     For all of your programming needs. Quite robust and not too heavy on the system.
+
+Neofetch
+
+    https://github.com/dylanaraps/neofetch
+    
+    A minimalistic CLI system info viewer
 
 Windows Terminal
 
