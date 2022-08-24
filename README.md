@@ -1,6 +1,5 @@
 # windows-poweruser
-resources and tips for Windows Power Users
-2011 Version
+resources and tips for Windows 10 Power Users 
 
 
 Scoop
@@ -67,23 +66,33 @@ Neofetch
 
 Windows Terminal
 
-    WIP
+    github.com/microsoft/terminal
+    
+    New windows terminal where Powershell and default console can run.
 
 Powershell 7 (x64)
 
-    WIP
+    Pre-installed by default.
 
 Oracle VM Virtual Box
 
-    WIP
+    https://www.virtualbox.org/wiki/Downloads
+    
+    Program that can run multiple virtual machines (PC), depending on base computer specs.
+    Good for running other Linux OS for testing.
     
 Intelligence Standby List Cleaner
     
-    WIP
+    https://www.wagnardsoft.com/forums/viewtopic.php?t=1256
+    
+    The program will monitor and clear the memory standby list. 
+    Good for clearing up memory, especially when gaming.
 
 Process Hacker
 
-    WIP
+    https://processhacker.sourceforge.io/downloads.php
+    
+    Similar to the task manager except with more features.
     
 x360ce
     
@@ -104,3 +113,9 @@ Discord
 QTTabBar
 
     Dont even know how this got installed in my desktop but its great
+    
+
+Filezilla
+    
+    FTP client (or server) that works well, especially for uploading multiple files into server.
+    
