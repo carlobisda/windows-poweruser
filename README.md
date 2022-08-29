@@ -57,6 +57,12 @@ Sidebar Diagnostics
     
     Provides a static graphical presentation of your computer stats (think htop).
     
+Barrier
+
+    https://github.com/debauchee/barrier
+    
+    Open source WIFI KVM.
+    
 DeBloat Windows10
 
     https://github.com/W4RH4WK/Debloat-Windows-10
