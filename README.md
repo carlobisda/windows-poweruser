@@ -1,5 +1,5 @@
 # Windows-Poweruser
-As someone who had the pleasure of working on Windows since DOS
+As someone who had the pleasure of working with Microsoft since DOS
 and trying out Linux and Mac flavours. I chose Win as my main
 OS as I can't disregard the compatability it has with many
 programs. While I do understand its many flaws, I for one
@@ -7,12 +7,6 @@ has never really ran into an issue a reboot cant fix. As well,
 with Microsoft taking some of its cues from its' Linux brother,
 I cant really see myself walking away from Win as my main OS.
 
-With that said, using Linux variants; I can't shake the joy of being
-able to fully customize your OS, coupled with some shell-fu and
-keybind-sorcery, it is truly a majestic sight to behold.
-
-This repo is my attempt to compile some tools that will replicate
-some parts of a Linux DE.
 
 Scoop
     
