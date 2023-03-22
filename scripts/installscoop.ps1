@@ -28,7 +28,6 @@ scoop install mpc-qt
 scoop install vlc
 scoop install discord
 scoop install qttabbar-np
-scoop install filezilla
 scoop install anaconda3
 scoop install obs-studio
 scoop install kdenlive
@@ -54,6 +53,7 @@ scoop install tor
 scoop install tor-browser
 scoop install irfanview
 scoop install git
+scoop install lynx
 
 scoop install minetest
 scoop install steam
