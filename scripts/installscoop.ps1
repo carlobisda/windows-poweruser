@@ -54,6 +54,7 @@ scoop install tor-browser
 scoop install irfanview
 scoop install git
 scoop install lynx
+scoop install puttie
 
 scoop install minetest
 scoop install steam
