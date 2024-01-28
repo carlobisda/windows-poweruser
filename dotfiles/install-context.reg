@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Open with &Irfanview]
+@="Open with &Irfanview"
+"Icon"="C:\\Users\\zupercb\\scoop\\apps\\irfanview\\current\\i_view64.exe"
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Open with &Irfanview\command]
+@="\"C:\\Users\\zupercb\\scoop\\apps\\irfanview\\current\\i_view64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Open with &Irfanview]
+@="Open with &Irfanview"
+"Icon"="C:\\Users\\zupercb\\scoop\\apps\\irfanview\\current\\i_view64.exe"
+[HKEY_CURRENT_USER\Software\Classes\Directory\shell\Open with &Irfanview\command]
+@="\"C:\\Users\\zupercb\\scoop\\apps\\irfanview\\current\\i_view64.exe\" \"%1\""
+
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\Open with &Irfanview]
+@="Open with &Irfanview"
+"Icon"="C:\\Users\\zupercb\\scoop\\apps\\irfanview\\current\\i_view64.exe"
+[HKEY_CURRENT_USER\Software\Classes\Directory\Background\shell\Open with &Irfanview\command]
+@="\"C:\\Users\\zupercb\\scoop\\apps\\irfanview\\current\\i_view64.exe\" \"%V\""
