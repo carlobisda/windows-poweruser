@@ -20,7 +20,7 @@ scoop install vscode-insiders
 scoop install windows-terminal
 scoop install virtualbox-np
 scoop install notepadplusplus
-scoop install mpc-qt
+scoop install mpc-hc-qt
 scoop install vlc
 scoop install discord
 scoop install qttabbar-np
